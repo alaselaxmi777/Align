@@ -1,0 +1,244 @@
+{
+  "_note": "Reference option lists. Not user data. Safe for production. v3 adds Maharashtra topics.",
+  "interests": {
+    "Technology": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Science",
+      "Web Development",
+      "Mobile App Development",
+      "Cybersecurity",
+      "Cloud Computing",
+      "Robotics",
+      "Internet of Things",
+      "Open Source",
+      "Game Development",
+      "Blockchain",
+      "Competitive Programming"
+    ],
+    "Business": [
+      "Entrepreneurship",
+      "Startups",
+      "Marketing",
+      "Finance and Investing",
+      "Product Management",
+      "Freelancing",
+      "Public Speaking",
+      "Leadership",
+      "Agriculture and AgriTech"
+    ],
+    "Creative": [
+      "Photography",
+      "Videography",
+      "Graphic Design",
+      "UI/UX Design",
+      "Music",
+      "Writing",
+      "Drawing and Painting",
+      "Content Creation",
+      "Film Making"
+    ],
+    "Learning": [
+      "Communication Skills",
+      "Career Development",
+      "Research and Academics",
+      "Language Learning",
+      "Mathematics",
+      "Aptitude and Placement Prep",
+      "Mentoring",
+      "Competitive Exam Prep (MPSC/UPSC)"
+    ],
+    "Lifestyle": [
+      "Fitness",
+      "Running",
+      "Yoga and Meditation",
+      "Cycling",
+      "Cricket",
+      "Football",
+      "Badminton",
+      "Trekking and Hiking",
+      "Cooking",
+      "Travel",
+      "Reading",
+      "Volunteering",
+      "Environment and Sustainability",
+      "Board Games",
+      "Chess",
+      "Maharashtrian Cooking"
+    ],
+    "Culture and Arts": [
+      "Kabaddi and Kho-Kho",
+      "Kushti and Wrestling",
+      "Marathi Literature",
+      "Theatre and Drama",
+      "Indian Classical Music",
+      "Folk Dance",
+      "Handicrafts and Rangoli",
+      "Ganeshotsav and Festivals"
+    ],
+    "Outdoors": [
+      "Fort Trekking"
+    ]
+  },
+  "skills": {
+    "Programming": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Java",
+      "C++",
+      "SQL",
+      "React",
+      "FastAPI",
+      "Git and GitHub",
+      "Data Structures and Algorithms"
+    ],
+    "Data and AI": [
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing",
+      "Data Analysis",
+      "Data Visualization",
+      "Statistics"
+    ],
+    "Design": [
+      "UI Design",
+      "Graphic Design",
+      "Photo Editing",
+      "Video Editing"
+    ],
+    "Professional": [
+      "Public Speaking",
+      "Writing",
+      "Project Management",
+      "Team Leadership",
+      "Networking",
+      "Resume and Interview Skills"
+    ],
+    "Other": [
+      "Teaching",
+      "Event Organizing",
+      "Social Media",
+      "Digital Marketing",
+      "Photography",
+      "Guitar",
+      "Cooking"
+    ],
+    "Arts": [
+      "Acting",
+      "Classical Vocal",
+      "Tabla",
+      "Dance"
+    ]
+  },
+  "goals": {
+    "short_term": [
+      "Learn a new skill",
+      "Build a project",
+      "Get an internship",
+      "Prepare for placements",
+      "Find study partners",
+      "Win a hackathon",
+      "Improve communication",
+      "Build a portfolio"
+    ],
+    "long_term": [
+      "Get a job in tech",
+      "Start a company",
+      "Pursue higher studies",
+      "Become a researcher",
+      "Become a freelancer",
+      "Build a personal brand",
+      "Become a mentor",
+      "Switch careers"
+    ]
+  },
+  "categories": {
+    "community": [
+      "Technology",
+      "Study Group",
+      "Creative",
+      "Sports and Fitness",
+      "Entrepreneurship",
+      "Career",
+      "Social Impact",
+      "Hobby"
+    ],
+    "event": [
+      "Workshop",
+      "Meetup",
+      "Hackathon",
+      "Talk",
+      "Networking",
+      "Competition",
+      "Webinar",
+      "Social"
+    ],
+    "activity": [
+      "Study Group",
+      "Workshop",
+      "Hackathon",
+      "Learning Session",
+      "Photography Walk",
+      "Sports",
+      "Networking",
+      "Volunteering",
+      "Creative Session",
+      "Skill Session"
+    ],
+    "place": [
+      "Cafe",
+      "Library",
+      "Study Space",
+      "Coworking Space",
+      "Park",
+      "Sports Facility",
+      "Learning Centre",
+      "Creative Space",
+      "Networking Venue"
+    ]
+  },
+  "age_ranges": [
+    "13-17",
+    "18-24",
+    "25-34",
+    "35-44",
+    "45-54",
+    "55+"
+  ],
+  "distance_options_km": [
+    2,
+    5,
+    10,
+    25,
+    50
+  ],
+  "languages": [
+    "Marathi",
+    "Hindi",
+    "English",
+    "Kannada",
+    "Telugu",
+    "Tamil",
+    "Gujarati",
+    "Urdu",
+    "Bengali",
+    "Malayalam",
+    "Konkani"
+  ],
+  "cities_maharashtra": [
+    "Pune",
+    "Mumbai",
+    "Kolhapur",
+    "Nagpur",
+    "Nashik",
+    "Thane",
+    "Sangli",
+    "Satara",
+    "Solapur",
+    "Chhatrapati Sambhajinagar",
+    "Ichalkaranji",
+    "Ratnagiri",
+    "Amravati"
+  ]
+}

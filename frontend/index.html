@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+    <meta name="theme-color" content="#0B0F14" />
+    <meta name="description" content="ALIGN — Intent- and Embedding-Based Framework for Personalized Community, Peer, and Experience Discovery." />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>ALIGN — Find Your People. Discover Your World.</title>
+    <!-- Open Graph / Social Meta Tags -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="ALIGN — Intent- and Embedding-Based Discovery Platform" />
+    <meta property="og:description" content="Connect with peers, communities, and experiences based on semantic intent, verified skills, and mutual goals." />
+    <meta property="og:image" content="/favicon.svg" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="ALIGN — Intent-Driven Social Discovery" />
+    <meta name="twitter:description" content="Discover peers, communities, and tech experiences tailored to your goals and skills." />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600..800&family=DM+Sans:ital,opsz,wght@0,9..40,400..700;1,9..40,400..700&display=swap" rel="stylesheet">
+    <script>
+      (function() {
+        try {
+          var saved = localStorage.getItem('align_theme');
+          var theme = (saved === 'light' || saved === 'dark') ? saved : (window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
+          document.documentElement.className = theme;
+          document.documentElement.setAttribute('data-theme', theme);
+        } catch(e) {}
+      })();
+    </script>
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

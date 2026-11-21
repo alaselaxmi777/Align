@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "ALIGN PostgreSQL",
+      "Group": "ALIGN",
+      "Port": 5432,
+      "Username": "align_user",
+      "Host": "db",
+      "SSLMode": "prefer",
+      "MaintenanceDB": "align_db"
+    }
+  }
+}

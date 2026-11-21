@@ -1,0 +1,27 @@
+# Version control
+.git/
+.gitignore
+
+# Environment files & secrets (NEVER copy into Docker image)
+.env*
+*.env
+backend/.env*
+*.dump
+*.pem
+*.key
+*.cert
+
+# Python bytecode & virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+dist/
+.pytest_cache/
+
+# Local media / test artifacts
+uploads/
+backend/uploads/
+tmp/
+*.log
